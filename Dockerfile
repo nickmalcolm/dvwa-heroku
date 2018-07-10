@@ -1,1 +1,0 @@
-FROM vulnerables/web-dvwa
