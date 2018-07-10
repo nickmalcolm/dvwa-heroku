@@ -1,3 +1,3 @@
 FROM vulnerables/web-dvwa
 
-CMD /main.sh
+CMD service mysql start && service apache2 start
